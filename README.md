@@ -38,10 +38,20 @@ The project structure follows a typical React project layout:
 └── README.md
 ```
 
-### Key Components
 
-- **TodoList.jsx**: Handles the display and management of the todo list.
-- **TodoItem.jsx**: Manages individual todo items, including marking them as completed or deleting them.
+## Installation and Usage
+
+To get started, clone the repository and install the dependencies:
+
+```bash
+git clone https://github.com/abhishekgurjar-in/todo_list.git
+cd todo-list
+npm install
+npm start
+```
+
+The application will start running at `http://localhost:3000`.
+
 
 
 ## Live Demo
