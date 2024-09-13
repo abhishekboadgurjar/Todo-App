@@ -1,4 +1,5 @@
-# Todo List Web App
+# Todo List Website
+
 ## Introduction
 
 In this tutorial, we'll build a **Todo List Web Application** using **React**. This project helps in understanding state management, event handling, and working with lists in React. It’s perfect for beginners looking to strengthen their skills in React development.
