@@ -45,7 +45,7 @@ The project structure follows a typical React project layout:
 To get started, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/abhishekgurjar-in/todo_list.git
+git clone https://github.com/abhishekboadgurjar/todo_list.git
 cd todo-list
 npm install
 npm start
@@ -76,5 +76,5 @@ The Todo List project is a great way to practice working with state, lists, and 
 
 ### Author
 
-**Abhishek Gurjar** is a passionate web developer. You can check out more of his projects on [GitHub](https://github.com/abhishekgurjar-in).
+**Abhishek Gurjar** is a passionate web developer. You can check out more of his projects on [GitHub](https://github.com/abhishekboadgurjar).
 
